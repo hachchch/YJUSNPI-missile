@@ -1,0 +1,17 @@
+[
+        {
+		"name": "Type-1919114514 Homo",
+		"unitType": "Missile",
+                "replaces": "Nuclear Missile",
+                "uniqueTo": "Japan",
+		"movement": 1,
+		"strength": 1919,
+		"rangedStrength": 1919,
+		"range": 24,
+		"cost": 1919,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [114514]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [24]", "Consumes [2] [Uranium]"],
+		"attackSound": "野獣の咆哮"
+	}
+]
