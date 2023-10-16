@@ -10,7 +10,7 @@
 		"range": 24,
 		"cost": 1919,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Nuclear weapon of Strength [114514]", "Only available <if [Manhattan Project] is constructed>",
+		"uniques": ["Nuclear weapon of Strength [931]", "Only available <if [Manhattan Project] is constructed>",
 			"Blast radius [24]", "Consumes [2] [Uranium]"],
 		"attackSound": "野獣の咆哮"
 	}
